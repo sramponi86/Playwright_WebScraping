@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "scraper": "node scraper.ts",
-    "scraper:3": "for run in {1..3}; do node scraper.ts; done"
+    "scraper:3": "node scraper.ts & node scraper.ts & node scraper.ts"
   },
   "author": "Stefano Ramponi",
   "license": "ISC",

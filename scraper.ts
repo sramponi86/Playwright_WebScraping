@@ -29,7 +29,7 @@ const BASE_URL = 'https://github.com/topics/playwright'
                 }
             })
         })
-
+        console.log(repositories)
         // store data
 
         console.log(agent)

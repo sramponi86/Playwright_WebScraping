@@ -1,0 +1,15 @@
+{
+  "name": "playwright_scraping",
+  "version": "1.0.0",
+  "description": "Scraping project with playwright",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefano Ramponi",
+  "license": "ISC",
+  "dependencies": {
+    "playwright": "^1.31.1",
+    "prettier": "^2.8.4"
+  }
+}
